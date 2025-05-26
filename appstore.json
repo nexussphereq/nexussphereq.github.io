@@ -1,0 +1,62 @@
+[
+  {
+    "name": "QTap",
+    "description": "Introducing QTap — a button. You tap it. The number goes up. That’s it. But it's the future of interaction.",
+    "url": "https://archive.org/download/qtap-1.0/qtap.apk",
+    "icon": "https://nexussphereq.neocities.org/qtap.png"
+  },
+  {
+    "name": "QAppStore",
+    "description": "The official NexussphereQ App Store",
+    "url": "https://archive.org/download/qappstore-1.0/qappstore.apk",
+    "icon": "https://nexussphereq.neocities.org/appstore.png"
+  },
+  {
+    "name": "Kodi 16.1",
+    "description": "Kodi 16.1, compatible with Android 4.2+",
+    "url": "https://archive.org/download/kodi-android-4-2/kodi-16.1.apk",
+    "icon": "https://nexussphereq.neocities.org/kodi.png"
+  },
+  {
+    "name": "Kodi 14.2",
+    "description": "Kodi 14.2, compatible with Android 4.0+",
+    "url": "https://archive.org/download/kodi-android-4/kodi.apk",
+    "icon": "https://nexussphereq.neocities.org/kodi.png"
+  },
+  {
+    "name": "Xabber",
+    "description": "Xabber XMPP Client, supports Android 4.0.3+. Version 2.6.6.644-open.",
+    "url": "https://archive.org/download/xabber/xabber.apk",
+    "icon": "https://nexussphereq.neocities.org/xabber.png"
+  },
+  {
+    "name": "F-Droid 1.12.1",
+    "description": "F-Droid 1.12.1, compatible with Android 4-5.",
+    "url": "https://archive.org/download/fdroid-1.12.1/fdroid-1.12.1.apk",
+    "icon": "https://nexussphereq.neocities.org/fdroid.png"
+  },
+  {
+    "name": "Firefox 68.11",
+    "description": "Firefox 68.11, Android 4.1+",
+    "url": "https://archive.org/download/firefox-68.11/firefox-68.11.apk",
+    "icon": "https://nexussphereq.neocities.org/firefox.png"
+  },
+  {
+    "name": "Smarty 0.1",
+    "description": "Smarty smartwatch companion app. Designed for chinese MTK smartwatches (DZ09, GT08, etc). Requires non-fake DZ09/GT08/etc hardware to work.",
+    "url": "https://archive.org/download/smarty-v-0.1.ds/Smarty%20v0.1.ds.apk",
+    "icon": "https://nexussphereq.neocities.org/dz09.jpg"
+  },
+  {
+    "name": "VLC 3.6.5",
+    "description": "VLC 3.6.5. Android 4.2+.",
+    "url": "https://archive.org/download/vlc-3.6.5/vlc-3.6.5.apk",
+    "icon": "https://nexussphereq.neocities.org/vlc.png"
+  },
+  {
+    "name": "Certificate",
+    "description": "May be needed to access resources on earlier versions of Android",
+    "url": "https://web.archive.org/web/20250508113530/https://www.stoutner.com/lets-encrypt-isrg-root-x1-and-privacy-browser/",
+    "icon": "https://nexussphereq.neocities.org/web.png"
+  }
+]
